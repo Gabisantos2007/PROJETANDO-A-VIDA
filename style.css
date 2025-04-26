@@ -2,7 +2,7 @@
 
 :root{
     --cor-de-fundo: #1E1E1E;
-    --verde: #ff57ff;
+    --verde: #ff7957;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: rgba(58, 55, 94, 0.5);
@@ -165,7 +165,7 @@ footer p {
   text-transform: uppercase;
   font: bolder;
 
-  background: linear-gradient(45deg, #10c91f, #4fd12b, #19db49,#0fe33d);
+  background: linear-gradient(45deg, #c94b10, #d17b2b, #db9719,#e3ce0f);
   background-size: 400% 100%;
   animation: degrade 10s linear infinite alternate;
 
